@@ -5,7 +5,7 @@ package gitflow.test;
 
 public class App {
     public String getGreeting() {
-        return "Hello World!";
+        return "Hello World! (Modified)"
     }
 
     public static void main(String[] args) {
